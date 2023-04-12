@@ -13,6 +13,10 @@ Design and implementation of digital system for lottery number generation
 
 
 
+## Demo 
+
+![ezgif com-optimize](https://user-images.githubusercontent.com/83590514/231502266-dbd0090f-2db8-4dc9-81b0-13a2f3ef675e.gif)
+
 
 
 For further information regarding our project you can refer our report [here](https://github.com/vinodpatil2002/Lottery-Number-Generator/blob/4d4aa149a015b41d31afa559672b3a28f96d6f09/Lottery_number_generator.pdf).
