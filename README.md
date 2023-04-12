@@ -15,4 +15,12 @@ Design and implementation of digital system for lottery number generation
 
 
 
+For further information regarding our project you can refer our report [here](https://github.com/vinodpatil2002/Lottery-Number-Generator/blob/4d4aa149a015b41d31afa559672b3a28f96d6f09/Lottery_number_generator.pdf).
+
+
+
+## Authors
+
+- [Vinod Patil](https://github.com/vinodpatil2002)
+- [Shaheen Khan](https://github.com/Shaheen1110)
 
